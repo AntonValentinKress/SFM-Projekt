@@ -1,4 +1,4 @@
-import './App.css';
+import './index.css';
 
 function App() {
   return (
@@ -14,13 +14,13 @@ function App() {
     <u1 className='list'>
       <li>
         <label type='checkbox'>
-          Item 1
+          Step 1
         </label>
         <button className='btn btn-danger'>Delete</button>
       </li>
       <li>
         <label type='checkbox'>
-          Item 1
+          Step 2
         </label>
         <button className='btn btn-danger'>Delete</button>
       </li>
